@@ -32,8 +32,8 @@ This project implements an intelligent web crawler that goes beyond traditional 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deepseek-ai-web-crawler.git
-cd deepseek-ai-web-crawler
+git clone https://github.com/dharun36/webscraping-craw4ai.git
+
 ```
 
 2. Create and activate a virtual environment:
@@ -109,6 +109,8 @@ The crawler is designed to handle rate limits by:
 - Implement advanced filtering options
 - Add sentiment analysis for product reviews
 - Create a dashboard for visualizing extracted data
+
+  
 
 ## Acknowledgments
 
