@@ -4,7 +4,7 @@ A specialized web crawler that extracts detailed product information from e-comm
 
 ## Overview
 
-![Overview](WebScraping Demo (1).mp4)
+![Overview](WebScrap.mp4)
 
 This project implements an intelligent web crawler that goes beyond traditional HTML scraping. It leverages AI to understand product listings on e-commerce websites and extract structured data, including:
 
