@@ -110,10 +110,6 @@ The crawler is designed to handle rate limits by:
 - Add sentiment analysis for product reviews
 - Create a dashboard for visualizing extracted data
 
-## License
-
-[MIT License](LICENSE)
-
 ## Acknowledgments
 
 - [crawl4ai](https://docs.crawl4ai.com/) framework for the core scraping functionality
