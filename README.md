@@ -111,7 +111,6 @@ The crawler is designed to handle rate limits by:
 - Create a dashboard for visualizing extracted data
 
   
-
 ## Acknowledgments
 
 - [crawl4ai](https://docs.crawl4ai.com/) framework for the core scraping functionality
